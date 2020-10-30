@@ -6,7 +6,7 @@ Edward Yang
 
 ### _Education_
 -- -- 
-**Software Engineering AAT DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_
+**Software Engineering AA DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_
 
 - Focused on Object Oriented Programming patterns using coding languages such as C# and Java.
 - .NET Developer Certificate. 
