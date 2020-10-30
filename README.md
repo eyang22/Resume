@@ -2,12 +2,12 @@ Edward Yang
 ===========
 
 #### Programmer 
-###### [ [github](https://github.com/eyang22) ] . [ EdwardYang05101991@gmail.com ] . [ 253 359 5484 ]
+###### [ [<i class="fab fa-github"></i>github](https://github.com/eyang22) ] . [ EdwardYang05101991@gmail.com ] . [ 253 359 5484 ]
 
 
 ### _Education_
 -- -- 
-**Software Engineering AAT DEGREE Clover Park Technical College** _(April 2017 - December 2018)_
+**Software Engineering AAT DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_
 
 - .NET Developer Certificate. 
 - Presidents List/Deans List.
@@ -16,8 +16,10 @@ Edward Yang
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - current, Puyallup WA)_
 
-- Developed, updated, and maintained multiple in house applications using C#, sql and angular.   
+- Gained experience in communicating with multiple users of their needs and wants in an app and successfully executing idease to cement. 
+- Managed all database and windows forms apps using c# and sql.
 - Implemented best practices and agile development methodologies from day one. 
+- Learned to debug. 
 - Gained needed experience of working with a team. 
 
 **Manager, E-Z Mart** _(April 2017 - October 2019, Tacoma, WA)_
@@ -36,5 +38,5 @@ Edward Yang
 ### _Skills/Interests_
 -- -- 
 - **Programming:** C#, Java, Javascript, Sql
-- **Web Design**: Angular 2, html/css, bootstrap
+- **Web Design**: Angular 2, HTML/CSS, bootstrap
 - **Interest:** Cloud Computing, Data Structures, Big Data, Object Oriented Programming
