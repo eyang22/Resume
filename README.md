@@ -19,7 +19,7 @@ Edward Yang
 - Communicating with multiple clients about their needs and wants, successfully translating client's requirements into applications.
 - Managing all database and windows forms apps using C# and SQL.
 - Implementing best practices and agile development methodologies using git and source tree. 
-- Fix bugs in multiple in house applications, and also added many enhancements to assist user's needs.
+- Fixing bugs in multiple in house applications, and also added many enhancements to assist user's needs.
 - Gaining needed experience of working with a team. 
 
 **Manager, E-Z Mart** _(April 2017 - October 2019, Tacoma, WA)_
