@@ -2,7 +2,9 @@ Edward Yang
 ===========
 
 #### Programmer 
-###### [ [<i class="fab fa-github"></i>github](https://github.com/eyang22) ] . [ EdwardYang05101991@gmail.com ] . [ 253 359 5484 ]
+###### [ [github](https://github.com/eyang22) ] . [ EdwardYang05101991@gmail.com ] . [ 253 359 5484 ]
+
+<i class="fab fa-github"></i>
 
 
 ### _Education_
