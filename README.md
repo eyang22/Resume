@@ -35,6 +35,6 @@ Edward Yang
 
 ### _Skills/Interests_
 -- -- 
-**Programming:** C#, Java, Javascript, Sql
-**Web Design**: Angular 2, html/css, bootstrap
-**Interest:** Cloud Computing, Data Structures, Big Data, Object Oriented Programming
+- **Programming:** C#, Java, Javascript, Sql
+- **Web Design**: Angular 2, html/css, bootstrap
+- **Interest:** Cloud Computing, Data Structures, Big Data, Object Oriented Programming
