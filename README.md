@@ -1,0 +1,40 @@
+Edward Yang
+===========
+
+#### Programmer 
+###### [ [github](https://github.com/eyang22) ] . [ EdwardYang05101991@gmail.com ] . [ 253 359 5484 ]
+
+
+Education
+-- -- 
+**Software Engineering AAT DEGREE Clover Park Technical College** (April 2017 - December 2018)
+
+- .NET Developer Certificate. 
+- Presidents List/Deans List.
+
+Experience
+-- -- 
+**Application Programmer, Sefnco Communications** (October 2019 - current, Puyallup WA)
+
+- Developed, updated, and maintained multiple in house applications using C#, sql and angular.   
+- Implemented best practices and agile development methodologies from day one. 
+- Gained needed experience of working with a team. 
+
+**Manager, E-Z Mart** (April 2017 - October 2019, Tacoma, WA)
+
+- Processing a hundred or more cash, credit or EBT transactions daily. 
+- Managing all inventory ranging from soft drinks to tobacco products. 
+- Experience with resolving difficult situations involving customers every other day.
+
+**Sales Person, AutoNation Honda of Renton** (January 2016 - April 2017, Renton, WA)
+
+- Utilizing central database to contact potential customers and inquire about their needs.
+- Anticipating customer requirements to present the right product to the customer.
+- Giving customized presentations to visiting customers by adapting to their different needs.
+- Coming up with creative solutions to resolve day to day issues to complete challenging sales.
+
+Skills/Interests
+-- -- 
+**Programming:** C#, Java, Javascript, Sql
+**Web Design**: Angular 2, html/css, bootstrap
+**Interest:** Cloud Computing, Data Structures, Big Data, Object Oriented Programming
