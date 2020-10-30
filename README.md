@@ -19,7 +19,7 @@ Edward Yang
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - current, Puyallup WA)_
 
-- Communicating with multiple clients about their needs and wants, successfully translating client's requirements into applications.
+- Communicating with multiple clients about their needs, successfully translating client's requirements into applications.
 - Managing all database and windows forms apps using C# and SQL.
 - Implementing best practices and agile development methodologies using git and source tree. 
 - Fixing bugs in multiple in house applications, and also adding many enhancements to assist user's needs.
