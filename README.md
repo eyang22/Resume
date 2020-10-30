@@ -11,6 +11,9 @@ Edward Yang
 - Focused on Object Oriented Programming patterns using coding languages such as C# and Java.
 - .NET Developer Certificate. 
 - Presidents List/Deans List.
+- Club OOPS
+  - School object oriented programming club where students would meet to get tutored or to develop applications not related to school in teams.
+
 
 ### _Experience_
 -- -- 
