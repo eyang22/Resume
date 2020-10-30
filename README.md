@@ -8,11 +8,11 @@ Edward Yang
 -- -- 
 **Software Engineering AA DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_
 
- - Focused on Object Oriented Programming patterns using coding languages such as C# and Java.
- - .NET Developer Certificate. 
- - Presidents List/Deans List.
- - Club OOPS
-   - School object oriented programming club where students would meet to get tutored or to develop applications not related to school in teams.
+  - Focused on Object Oriented Programming patterns using coding languages such as C# and Java.
+  - .NET Developer Certificate. 
+  - Presidents List/Deans List.
+  - Club OOPS
+    - School object oriented programming club where students would meet to get tutored or to develop applications not related to school in teams.
 
 
 ### _Experience_
